@@ -1,4 +1,4 @@
-# Hi there, I'm Alfonso- aka [MinuteCrypto][youtube] 👋 
+# Hi there, I'm Alfonso Lua- aka [MinuteCrypto][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=minutcrypto.org&style=for-the-badge&url=https%3A%2F%2Fminutecrypto.org)](https://minutecrypto.org)
