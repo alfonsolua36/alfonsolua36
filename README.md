@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ethereum Name Service!! 📶](https://www.youtube.com/shorts/wh_4Juy2Mx8)
-- [How To Earn Free Crypto By Browsing The Web! 🤑](https://www.youtube.com/shorts/CiJoXjYglIQ)
-- [Bored Ape Yacht Club 🐒](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [Bitfinex Crypto Exchange Hack! 🪙](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [What Is Green Metaverse Token (GMT)? 🏃](https://www.youtube.com/watch?v=oQBRZMo0e34)
+- [LOOK Stack Overflow Developer Survey 2022 Results Are In!!](https://www.youtube.com/watch?v=KnlXUkdJ6j8)
+- [How To Launch an NFT Collection on Ethereum!! &lpar;Updated Minting dApp&rpar;](https://www.youtube.com/watch?v=-EB2TTQxSWc)
+- [Web3 Discussion Panel featuring Hashlips, codeSTACKr, plus special guests!](https://www.youtube.com/watch?v=UMK_6D7ApSE)
+- [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
+- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
