@@ -38,17 +38,17 @@
 
 [<img align="left" alt="Adobe Illustrator" width="26px" src="./icons/adobeillustrator.svg" style="padding-right:10px;" />][Metaverse]
 [<img align="left" alt="Adobe Premiere Pro" width="26px" src="./icons/adobepremierepro.svg" style="padding-right:10px;" />][CoinReview] 
-[<img align="left" alt="Adobe After Effects" width="26px" src="./icons/adobeaftereffects.svg" style="padding-right:10px;" />][cssplaylist] 
-[<img align="left" alt="Adobe Acrobate Reader" width="26px" src="./icons/adobeacrobatreader.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Adobe Creative Cloud" width="26px" src="./icons/adobecreativecloud.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="Adobe Photoshop" width="26px" src="./icons/adobephotoshop.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Markdown" width="26px" src="./icons/markdown.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Solidity" width="26px" src="./icons/solidity.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Canva" width="26px" src="./icons/canva.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visualstudiocode.svg" style="padding-right:10px;" />][webdevplaylist] 
-[<img align="left" alt="Wix" width="26px" src="./icons/wix.svg" style="padding-right:10px;" />][webdevplaylist] 
+[<img align="left" alt="Adobe After Effects" width="26px" src="./icons/adobeaftereffects.svg" style="padding-right:10px;" />][CoinReview] 
+[<img align="left" alt="Adobe Acrobate Reader" width="26px" src="./icons/adobeacrobatreader.svg" style="padding-right:10px;" />][CoinReview]
+[<img align="left" alt="Adobe Creative Cloud" width="26px" src="./icons/adobecreativecloud.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Adobe Photoshop" width="26px" src="./icons/adobephotoshop.svg" style="padding-right:10px;" />][MetaVerse]
+[<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Markdown" width="26px" src="./icons/markdown.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Solidity" width="26px" src="./icons/solidity.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Canva" width="26px" src="./icons/canva.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visualstudiocode.svg" style="padding-right:10px;" />][Github] 
+[<img align="left" alt="Wix" width="26px" src="./icons/wix.svg" style="padding-right:10px;" />][website] 
 [<img align="left" alt="Wix" width="26px" src="./icons/wix.svg" style="padding-right:10px;" />](https://minutecrypto.org)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
@@ -115,5 +115,5 @@
 [linkedin]: https://www.linkedin.com/in/alfonso-lua-b22b45148/
 [Metaverse]: https://www.youtube.com/watch?v=DrrlcdPXfOU&list=PLGErkXK6tKhRB_9u9ZgHLTaG9f3aZZdHN
 [CoinReview]: https://www.youtube.com/watch?v=MKaAfPwSiU0&list=PLGErkXK6tKhQGq1b7QExlOi2rrx1bQ06r
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[Github]: https://github.com/alfonsolua36
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
