@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ethereuem Name Service](https://www.youtube.com/shorts/wh_4Juy2Mx8)
-- [How To Earn Free Crypto By Browsing The Web!](https://www.youtube.com/shorts/CiJoXjYglIQ)
-- [Bored Ape Yach Club](https://www.youtube.com/shorts/bTbFhI2LOrg)
-- [Bitfinex Crypto Exchange Hack!](https://www.youtube.com/shorts/I-CIQVxFDZ0)
-- [What Is Green Metaverse Token (GMT)!](https://www.youtube.com/shorts/QJVOZ1Dwxa8)
+- [Ethereum Name Service](https://www.youtube.com/watch?v=wh_4Juy2Mx8)
+- [How To Earn Free Crypto By Browsing The Web!](https://www.youtube.com/watch?v=CiJoXjYglIQ)
+- [Bored Ape Yacht Club](https://www.youtube.com/watch?v=bTbFhI2LOrg)
+- [Bitfinex Crypto Exchange Hack!](https://www.youtube.com/watch?v=I-CIQVxFDZ0)
+- [What Is Green Metaverse Token &lpar;GMT&rpar;?](https://www.youtube.com/watch?v=QJVOZ1Dwxa8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
