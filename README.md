@@ -37,9 +37,9 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Adobe Illustrator" width="26px" src="./icons/adobeillustrator.svg" style="padding-right:10px;" />][Metaverse]
-[<img align="left" alt="Adobe Premiere Pro" width="26px" src="./icons/adobepremierpro.svg" style="padding-right:10px;" />][CoinReview] 
+[<img align="left" alt="Adobe Premiere Pro" width="26px" src="./icons/adobepremierepro.svg" style="padding-right:10px;" />][CoinReview] 
 [<img align="left" alt="Adobe After Effects" width="26px" src="./icons/adobeaftereffects.svg" style="padding-right:10px;" />][cssplaylist] 
-[<img align="left" alt="Adobe Acrobate Reader" width="26px" src="./icons/adobeacrobatereader.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Adobe Acrobate Reader" width="26px" src="./icons/adobeacrobatreader.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Adobe Creative Cloud" width="26px" src="./icons/adobecreativecloud.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="Adobe Photoshop" width="26px" src="./icons/adobephotoshop.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][webdevplaylist]
