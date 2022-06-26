@@ -36,20 +36,20 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/adobeillustrator.svg" style="padding-right:10px;" />][Metaverse]
-[<img align="left" alt="HTML5" width="26px" src="./icons/adobepremierpro.svg" style="padding-right:10px;" />][CoinReview] 
-[<img align="left" alt="CSS3" width="26px" src="./icons/adobeaftereffects.svg" style="padding-right:10px;" />][cssplaylist] 
-[<img align="left" alt="Sass" width="26px" src="./icons/adobeacrobatereader.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="./icons/adobecreativecloud.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="./icons/adobephotoshop.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="./icons/adobephotoshop.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="./icons/markdown.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/solidity.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="./icons/figma.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="./icons/canva.svg" style="padding-right:10px;" />][webdevplaylist] 
-[<img align="left" alt="Git" width="26px" src="./icons/visualstudiocode.svg" style="padding-right:10px;" />][webdevplaylist] 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="Adobe Illustrator" width="26px" src="./icons/adobeillustrator.svg" style="padding-right:10px;" />][Metaverse]
+[<img align="left" alt="Adobe Premiere Pro" width="26px" src="./icons/adobepremierpro.svg" style="padding-right:10px;" />][CoinReview] 
+[<img align="left" alt="Adobe After Effects" width="26px" src="./icons/adobeaftereffects.svg" style="padding-right:10px;" />][cssplaylist] 
+[<img align="left" alt="Adobe Acrobate Reader" width="26px" src="./icons/adobeacrobatereader.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Adobe Creative Cloud" width="26px" src="./icons/adobecreativecloud.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Adobe Photoshop" width="26px" src="./icons/adobephotoshop.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Markdown" width="26px" src="./icons/markdown.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Solidity" width="26px" src="./icons/solidity.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Figma" width="26px" src="./img/figma.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Canva" width="26px" src="./icons/canva.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visualstudiocode.svg" style="padding-right:10px;" />][webdevplaylist] 
+[<img align="left" alt="Wix" width="26px" src="./icons/wix.svg" style="padding-right:10px;" />][webdevplaylist] 
+[<img align="left" alt="Wix" width="26px" src="./icons/wix.svg" style="padding-right:10px;" />](https://minutecrypto.org)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
