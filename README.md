@@ -13,7 +13,7 @@
 - 🔭 Check out my crypto website: [Beecome A Crypto Expert!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about web3 and develop in the space!
 - ⚡ Fun fact: I love to surf and sing at the same time.
 - 🏄‍♂️ Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
