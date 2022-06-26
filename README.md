@@ -95,7 +95,7 @@
 2. 🎉 Uploaded [layers](https://github.com/alfonsolua36/create-10k-nft-collection/tree/main/layers) in [alfonsolua36/create-10k-nft-collection](https://github.com/alfonsolua36/create-10k-nft-collection)
 3. 📌 Pushed [minter-dapp-main](https://github.com/codeSTACKr/minter-dapp/pull/44) with changes to Github!
 4. 🗣 Tested and modified [Readme](https://github.com/alfonsolua36/ReadmeTest/edit/master/README.md) in [alfonsolua36/ReadmeTest](https://github.com/alfonsolua36/ReadmeTest)s
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+5. ❌ Updated [Readme](https://github.com/alfonsolua36/alfonsolua36#readme) for Profile in [alfonsolua36/alfonsolua36](https://github.com/alfonsolua36/alfonsolua36)
 <!--END_SECTION:activity-->
 
 </details>
