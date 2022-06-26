@@ -45,7 +45,7 @@
 [<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Markdown" width="26px" src="./icons/markdown.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Solidity" width="26px" src="./icons/solidity.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Figma" width="26px" src="./img/figma.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Canva" width="26px" src="./icons/canva.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visualstudiocode.svg" style="padding-right:10px;" />][webdevplaylist] 
 [<img align="left" alt="Wix" width="26px" src="./icons/wix.svg" style="padding-right:10px;" />][webdevplaylist] 
