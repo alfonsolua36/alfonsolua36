@@ -91,10 +91,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+1. 🔨 Updated [JS](https://github.com/alfonsolua36/nft-landing-page/commit/fbdc90d3ddd1db9ffa1de5073f5572814c6faf70) file in [alfonsolua36/mft-landing-page](https://github.com/alfonsolua36/nft-landing-page)
+2. 🎉 Uploaded [layers](https://github.com/alfonsolua36/create-10k-nft-collection/tree/main/layers) in [alfonsolua36/create-10k-nft-collection](https://github.com/alfonsolua36/create-10k-nft-collection)
+3. 📌 Pushed [minter-dapp-main](https://github.com/codeSTACKr/minter-dapp/pull/44) with changes to Github!
+4. 🗣 Tested and modified [Readme](https://github.com/alfonsolua36/ReadmeTest/edit/master/README.md) in [alfonsolua36/ReadmeTest](https://github.com/alfonsolua36/ReadmeTest)s
 5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 <!--END_SECTION:activity-->
 
