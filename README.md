@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [3 cryptso in 2022!](https://www.youtube.com/watch?v=2NHCcA8Mdm4)
+- [3 cryptos in 2022!](https://www.youtube.com/watch?v=2NHCcA8Mdm4)
 - [Should I Sell or Buy Bitcoin?](https://www.youtube.com/watch?v=Va1og8O_dyM)
 - [Ethereum Name Service](https://www.youtube.com/watch?v=wh_4Juy2Mx8)
 - [How To Earn Free Crypto By Browsing The Web!](https://www.youtube.com/watch?v=CiJoXjYglIQ)
