@@ -1,6 +1,6 @@
 # Hi there, I'm Alfonso Lua- aka [MinuteCrypto][youtube] 👋 
 
-[(https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=minutcrypto.org&style=for-the-badge&url=https%3A%2F%2Fminutecrypto.org)](https://minutecrypto.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/minutcrypto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/alfonsolua36&screen_name=minutcrypto)
 
@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [BTC Whales Buying More Bitcoin!](https://www.youtube.com/watch?v=5mF_gWyJmgI)
-- [3 cryptos in 2022!](https://www.youtube.com/watch?v=2NHCcA8Mdm4)
-- [Should I Sell or Buy Bitcoin?](https://www.youtube.com/watch?v=Va1og8O_dyM)
 - [Ethereum Name Service](https://www.youtube.com/watch?v=wh_4Juy2Mx8)
 - [How To Earn Free Crypto By Browsing The Web!](https://www.youtube.com/watch?v=CiJoXjYglIQ)
+- [Bored Ape Yacht Club](https://www.youtube.com/watch?v=bTbFhI2LOrg)
+- [Bitfinex Crypto Exchange Hack!](https://www.youtube.com/watch?v=I-CIQVxFDZ0)
+- [What Is Green Metaverse Token &lpar;GMT&rpar;?](https://www.youtube.com/watch?v=QJVOZ1Dwxa8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
