@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nickelodeon NFTs!](https://www.youtube.com/watch?v=WJSyYvoeeFY)
 - [BTC Whales Buying More Bitcoin!](https://www.youtube.com/watch?v=5mF_gWyJmgI)
 - [3 cryptos in 2022!](https://www.youtube.com/watch?v=2NHCcA8Mdm4)
 - [Should I Sell or Buy Bitcoin?](https://www.youtube.com/watch?v=Va1og8O_dyM)
 - [Ethereum Name Service](https://www.youtube.com/watch?v=wh_4Juy2Mx8)
-- [How To Earn Free Crypto By Browsing The Web!](https://www.youtube.com/watch?v=CiJoXjYglIQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
