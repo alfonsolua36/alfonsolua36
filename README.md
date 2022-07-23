@@ -3,6 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTXuiTRxOz40gfrfvyatgXA?style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=minutcrypto.org&style=for-the-badge&url=https%3A%2F%2Fminutecrypto.org)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/minutcrypto?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Tik Tok Follow](https://img.shields.io/badge/Tiktok-Followers-blue)][tiktok]
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
@@ -10,7 +11,7 @@
 
 ## I'm an Entreprenuer, Investor, Developer, and Content Creator!!
 
-- 🔭 Check out my crypto website today: [Beecome A Crypto Expert!][website]!
+- 🔭 Check out my crypto website: [Beecome A Crypto Expert!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and develop in the space!
@@ -112,6 +113,7 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https://github.com/alfonsolua36&screen_name=minutcrypto
 [youtube]: https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA?sub_confirmation=1
 [instagram]: https://www.instagram.com/minutcrypto/
+[tiktok]: https://www.tiktok.com/@minutcrypto
 [linkedin]: https://www.linkedin.com/in/alfonso-lua-b22b45148/
 [Metaverse]: https://www.youtube.com/watch?v=DrrlcdPXfOU&list=PLGErkXK6tKhRB_9u9ZgHLTaG9f3aZZdHN
 [CoinReview]: https://www.youtube.com/watch?v=MKaAfPwSiU0&list=PLGErkXK6tKhQGq1b7QExlOi2rrx1bQ06r
