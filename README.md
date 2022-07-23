@@ -10,7 +10,7 @@
 
 ## I'm an Entreprenuer, Investor, Developer, and Content Creator!!
 
-- 🔭 Check out my crypto website: [Beecome A Crypto Expert!][website]!
+- 🔭 Check out my crypto website today: [Beecome A Crypto Expert!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and develop in the space!
