@@ -122,5 +122,5 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [R]: https://github.com/alfonsolua36/Team-Covid-1919
 [HTML]: https://github.com/alfonsolua36/Netflix-Portfilio-Site
-[Figme]: https://www.figma.com/@alfonsolua
+[Figma]: https://www.figma.com/@alfonsolua
 [Sol]: https://github.com/alfonsolua36/Issue-your-own-ERC20-token
