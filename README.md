@@ -3,9 +3,9 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTXuiTRxOz40gfrfvyatgXA?style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=minutcrypto.org&style=for-the-badge&url=https%3A%2F%2Fminutecrypto.org)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/minutcrypto?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-[![Tik Tok Follow](https://img.shields.io/badge/Tiktok-Followers-blue)][tiktok]
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
+
+[![Last Committ on Github](https://img.shields.io/github/last-commit/alfonsolua36/alfonsolua36.github.io?style=for-the-badge)][Github]
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
