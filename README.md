@@ -35,7 +35,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/minutcrypto#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/minutcrypto#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/tiktok-light.pdf)](https://instagram.com/minutcrypto#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/minutcrypto#gh-light-mode-only)
 [![website](./img/tiktok-dark.pdf)](https://instagram.com/minutcrypto#gh-dark-mode-only)
 
 
