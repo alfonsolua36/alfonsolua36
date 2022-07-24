@@ -35,7 +35,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/minutcrypto#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/minutcrypto#gh-dark-mode-only)
 &nbsp;&nbsp;
-<a href="https://www.tiktok.com/@minutcrypto" target="_blank"><img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tiktok.svg" /></a>
+[![website](./img/tiktok-light.pdf)](https://instagram.com/minutcrypto#gh-light-mode-only)
+[![website](./img/tiktok-dark.pdf)](https://instagram.com/minutcrypto#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
