@@ -16,8 +16,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and develop in the space!
-- ⚡ Fun fact: I love to surf and sing at the same time.
-- 🏄‍♂️ Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🏄‍♂️ Fun fact: I love to surf and sing at the same time.
+- ⚡ Check out the NFT collection I created for fun: [Sodaheads](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
