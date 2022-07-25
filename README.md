@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Elon Musk Should Sell All His Bitcoin!](https://www.youtube.com/watch?v=mch-j5JYhwA)
 - [Real Reason Why Tesla Sold BTC!](https://www.youtube.com/watch?v=foR7tHIg5oM)
 - [Bitcoin vs Banks Energy Usage!](https://www.youtube.com/watch?v=KnkQeRu7drw)
 - [Nickelodeon NFTs!](https://www.youtube.com/watch?v=WJSyYvoeeFY)
 - [BTC Whales Buying More Bitcoin!](https://www.youtube.com/watch?v=5mF_gWyJmgI)
-- [3 cryptos in 2022!](https://www.youtube.com/watch?v=2NHCcA8Mdm4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
