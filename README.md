@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Instagram](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)][instagram]
 [![Last Committ on Github](https://img.shields.io/github/last-commit/alfonsolua36/alfonsolua36.github.io?style=for-the-badge)][Github]
-[![Crypto vs Stocks](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.minutecrypto.org/post/crypto-vs-stocks-what-is-the-difference)
+[![Crypto vs Stocks](https://img.shields.io/badge/-Crypto%20VS%20Stocks%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.minutecrypto.org/post/crypto-vs-stocks-what-is-the-difference)
 
 
 ## I'm an Entreprenuer, Investor, Developer, and Content Creator!!
