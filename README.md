@@ -86,7 +86,7 @@
 - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://minutecrypto.org)
+➡️ [more blog posts...](https://minutecrypto.org/) 
 
 ---
 
