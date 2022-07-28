@@ -79,6 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Landz](https://www.minutecrypto.org/post/landz)
+- [What Are Investment DAOs?](https://www.minutecrypto.org/post/what-are-investment-daos)
+- [7LuX](https://www.minutecrypto.org/post/_7lux)
+- [Nickelodeon NFT](https://www.minutecrypto.org/post/nickelodeon-nft)
+- [How To Create Your Own ERC-20 Token](https://www.minutecrypto.org/post/how-to-create-your-own-erc-20-token)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
