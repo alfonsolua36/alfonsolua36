@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Central bank digital currency!](https://www.youtube.com/watch?v=dAkyHBaE5ME)
 - [This Guy Dumped All His BTC!](https://www.youtube.com/watch?v=fKeKG0E9NTE)
 - [Ethereum 2.0 Merge!](https://www.youtube.com/watch?v=NGA89pB43xA)
 - [Elon Musk Should Sell All His Bitcoin!](https://www.youtube.com/watch?v=mch-j5JYhwA)
 - [Real Reason Why Tesla Sold BTC!](https://www.youtube.com/watch?v=foR7tHIg5oM)
-- [Bitcoin vs Banks Energy Usage!](https://www.youtube.com/watch?v=KnkQeRu7drw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
