@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Band?](https://www.minutecrypto.org/post/what-is-band)
 - [What Are NFTs](https://www.minutecrypto.org/post/what-are-nfts)
 - [Landz](https://www.minutecrypto.org/post/landz)
 - [What Are Investment DAOs?](https://www.minutecrypto.org/post/what-are-investment-daos)
 - [7LuX](https://www.minutecrypto.org/post/_7lux)
-- [Nickelodeon NFT](https://www.minutecrypto.org/post/nickelodeon-nft)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
