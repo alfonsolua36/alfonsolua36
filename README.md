@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Found Brian Armstrong&#39;s Crypto Portfolio!](https://www.youtube.com/watch?v=rJdJimrspF0)
 - [I found Jimmy Fallon&#39;s  Crypto Portfolio!](https://www.youtube.com/watch?v=M4CI_Y2dMpk)
 - [I Found Vitalik Butterin&#39;s Crypto Portfolio!](https://www.youtube.com/watch?v=56ctRU9nHS8)
 - [Central bank digital currency!](https://www.youtube.com/watch?v=dAkyHBaE5ME)
 - [This Guy Dumped All His BTC!](https://www.youtube.com/watch?v=fKeKG0E9NTE)
-- [Ethereum 2.0 Merge!](https://www.youtube.com/watch?v=NGA89pB43xA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
