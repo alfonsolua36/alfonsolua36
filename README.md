@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Are Crypto Airdrops!](https://www.youtube.com/watch?v=bLmQgDhdkrs)
 - [Proof of Work Explained!](https://www.youtube.com/watch?v=-WoUd19iqnQ)
 - [Blackrock and Coinbase Partnership!](https://www.youtube.com/watch?v=wb9qgz312L4)
 - [I Found Brian Armstrong&#39;s Crypto Portfolio!](https://www.youtube.com/watch?v=rJdJimrspF0)
 - [I found Jimmy Fallon&#39;s  Crypto Portfolio!](https://www.youtube.com/watch?v=M4CI_Y2dMpk)
-- [I Found Vitalik Butterin&#39;s Crypto Portfolio!](https://www.youtube.com/watch?v=56ctRU9nHS8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
