@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NFT Infinite Time Loop!](https://www.youtube.com/watch?v=VRB9Lez9128)
 - [Smart Contracts Explained!](https://www.youtube.com/watch?v=kX8Cf0Gdj24)
 - [What Are Crypto Airdrops!](https://www.youtube.com/watch?v=bLmQgDhdkrs)
 - [Proof of Work Explained!](https://www.youtube.com/watch?v=-WoUd19iqnQ)
 - [Blackrock and Coinbase Partnership!](https://www.youtube.com/watch?v=wb9qgz312L4)
-- [I Found Brian Armstrong&#39;s Crypto Portfolio!](https://www.youtube.com/watch?v=rJdJimrspF0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
