@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Livepeer &lpar;LPT&rpar;?](https://www.minutecrypto.org/post/what-is-livepeer-lpt)
 - [Introduction To The Crypto Space!](https://www.minutecrypto.org/post/introduction-to-the-crypto-space)
 - [What Is Band?](https://www.minutecrypto.org/post/what-is-band)
 - [What Are NFTs](https://www.minutecrypto.org/post/what-are-nfts)
 - [Landz](https://www.minutecrypto.org/post/landz)
-- [What Are Investment DAOs?](https://www.minutecrypto.org/post/what-are-investment-daos)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
