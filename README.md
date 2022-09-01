@@ -68,8 +68,8 @@
 - [Crypto com Sends woman 10 5 million1](https://www.youtube.com/watch?v=yN4cmDr-lig)
 - [NFT Infinite Time Loop!](https://www.youtube.com/watch?v=VRB9Lez9128)
 - [Smart Contracts Explained!](https://www.youtube.com/watch?v=kX8Cf0Gdj24)
-- [What Are Crypto Airdrops!](https://www.youtube.com/watch?v=bLmQgDhdkrs)
 - [Proof of Work Explained!](https://www.youtube.com/watch?v=-WoUd19iqnQ)
+- [Blackrock and Coinbase Partnership!](https://www.youtube.com/watch?v=wb9qgz312L4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
