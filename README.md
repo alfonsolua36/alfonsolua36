@@ -120,7 +120,7 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https://github.com/alfonsolua36&screen_name=minutcrypto
 [youtube]: https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA?sub_confirmation=1
 [instagram]: https://www.instagram.com/minutcrypto/
-[tiktok]: https://www.tiktok.com/@minutcrypto
+[tiktok]: https://www.tiktok.com/@minute.crypto
 [linkedin]: https://www.linkedin.com/in/alfonso-lua-b22b45148/
 [Metaverse]: https://www.youtube.com/watch?v=DrrlcdPXfOU&list=PLGErkXK6tKhRB_9u9ZgHLTaG9f3aZZdHN
 [CoinReview]: https://www.youtube.com/watch?v=MKaAfPwSiU0&list=PLGErkXK6tKhQGq1b7QExlOi2rrx1bQ06r
