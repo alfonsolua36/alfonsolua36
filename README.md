@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ethereum 2.0 Merge!](https://www.youtube.com/watch?v=NGA89pB43xA)
-- [Elon Musk Should Sell All His Bitcoin!](https://www.youtube.com/watch?v=mch-j5JYhwA)
-- [Real Reason Why Tesla Sold BTC!](https://www.youtube.com/watch?v=foR7tHIg5oM)
-- [Bitcoin vs Banks Energy Usage!](https://www.youtube.com/watch?v=KnkQeRu7drw)
-- [Nickelodeon NFTs!](https://www.youtube.com/watch?v=WJSyYvoeeFY)
+- [Crypto com Sends woman 10 5 million1](https://www.youtube.com/watch?v=yN4cmDr-lig)
+- [NFT Infinite Time Loop!](https://www.youtube.com/watch?v=VRB9Lez9128)
+- [Smart Contracts Explained!](https://www.youtube.com/watch?v=kX8Cf0Gdj24)
+- [Proof of Work Explained!](https://www.youtube.com/watch?v=-WoUd19iqnQ)
+- [Blackrock and Coinbase Partnership!](https://www.youtube.com/watch?v=wb9qgz312L4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Landz](https://www.minutecrypto.org/post/landz)
-- [What Are Investment DAOs?](https://www.minutecrypto.org/post/what-are-investment-daos)
-- [7LuX](https://www.minutecrypto.org/post/_7lux)
-- [Nickelodeon NFT](https://www.minutecrypto.org/post/nickelodeon-nft)
-- [How To Create Your Own ERC-20 Token](https://www.minutecrypto.org/post/how-to-create-your-own-erc-20-token)
+- [What Is Bitcoin](https://www.minutecrypto.org/post/what-is-bitcoin)
+- [Crypto.com, Bitcoin Again, and Lastly!](https://www.minutecrypto.org/post/crypto-com-bitcoin-again-and-lastly)
+- [What Is Livepeer &lpar;LPT&rpar;?](https://www.minutecrypto.org/post/what-is-livepeer-lpt)
+- [Introduction To The Crypto Space!](https://www.minutecrypto.org/post/introduction-to-the-crypto-space)
+- [What Is Band?](https://www.minutecrypto.org/post/what-is-band)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
