@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Different types of NFTs?](https://www.youtube.com/watch?v=oRSlsFFedqk)
 - [What are NFTs, explained!](https://www.youtube.com/watch?v=2VSreFZsv_E)
 - [Rating Beeple&#39;s NFT Crossroads!](https://www.youtube.com/watch?v=pQ4a9Dxdd7c)
 - [Lets Rate This Endless Art NFT!](https://www.youtube.com/watch?v=d8JNJQGC5Jw)
 - [How Squid Token Scammed Investors out of Millions!?](https://www.youtube.com/watch?v=W40qMiC4xGc)
-- [Crypto com Sends woman 10 5 million1](https://www.youtube.com/watch?v=yN4cmDr-lig)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
