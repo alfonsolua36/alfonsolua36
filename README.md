@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rating a Bored Ape Yacht Club 3D NFT!](https://www.youtube.com/watch?v=bDmXfoy9924)
 - [Different types of NFTs?](https://www.youtube.com/watch?v=oRSlsFFedqk)
 - [What are NFTs, explained!](https://www.youtube.com/watch?v=2VSreFZsv_E)
 - [Rating Beeple&#39;s NFT Crossroads!](https://www.youtube.com/watch?v=pQ4a9Dxdd7c)
 - [Lets Rate This Endless Art NFT!](https://www.youtube.com/watch?v=d8JNJQGC5Jw)
-- [How Squid Token Scammed Investors out of Millions!?](https://www.youtube.com/watch?v=W40qMiC4xGc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
