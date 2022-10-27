@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFT Creators are killing it with royalties](https://www.minutecrypto.org/post/nft-creators-are-killing-it-with-royalties)
 - [What Is Web3](https://www.minutecrypto.org/post/what-is-web3)
 - [What Is Bitcoin](https://www.minutecrypto.org/post/what-is-bitcoin)
 - [Crypto.com, Bitcoin Again, and Lastly!](https://www.minutecrypto.org/post/crypto-com-bitcoin-again-and-lastly)
 - [What Is Livepeer &lpar;LPT&rpar;?](https://www.minutecrypto.org/post/what-is-livepeer-lpt)
-- [Introduction To The Crypto Space!](https://www.minutecrypto.org/post/introduction-to-the-crypto-space)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
