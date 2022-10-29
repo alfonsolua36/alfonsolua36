@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PAC-12 Becomes First College Sport To Create NFTs](https://www.minutecrypto.org/post/pac-12-becomes-first-college-sport-to-create-nfts)
+- [Top Free NFT Mints in October 2022](https://www.minutecrypto.org/post/top-free-nft-mints-in-october-2022)
 - [Hasbulla NFTs: Everything There Is To Know!](https://www.minutecrypto.org/post/hasbulla-nfts-everything-there-is-to-know)
 - [NFT Creators are killing it with royalties](https://www.minutecrypto.org/post/nft-creators-are-killing-it-with-royalties)
 - [What Is Web3](https://www.minutecrypto.org/post/what-is-web3)
-- [What Is Bitcoin](https://www.minutecrypto.org/post/what-is-bitcoin)
-- [Crypto.com, Bitcoin Again, and Lastly!](https://www.minutecrypto.org/post/crypto-com-bitcoin-again-and-lastly)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
