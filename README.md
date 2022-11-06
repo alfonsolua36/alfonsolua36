@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Free NFT Mints In November 2022](https://www.minutecrypto.org/post/top-free-nft-mints-in-november-2022)
 - [Instagram Getting Into The NFT Space!](https://www.minutecrypto.org/post/instagram-getting-into-the-nft-space)
 - [Art Gobblers: Why They Are Generating So Much Hype!](https://www.minutecrypto.org/post/art-gobblers-why-they-are-generating-so-much-hype)
 - [PAC-12 Becomes First College Sport To Create NFTs](https://www.minutecrypto.org/post/pac-12-becomes-first-college-sport-to-create-nfts)
 - [Top Free NFT Mints in October 2022](https://www.minutecrypto.org/post/top-free-nft-mints-in-october-2022)
-- [Hasbulla NFTs: Everything There Is To Know!](https://www.minutecrypto.org/post/hasbulla-nfts-everything-there-is-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
