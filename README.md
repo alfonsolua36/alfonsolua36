@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Crypto com Sends woman 10 5 million1](https://www.youtube.com/watch?v=yN4cmDr-lig)
-- [NFT Infinite Time Loop!](https://www.youtube.com/watch?v=VRB9Lez9128)
-- [Smart Contracts Explained!](https://www.youtube.com/watch?v=kX8Cf0Gdj24)
-- [Proof of Work Explained!](https://www.youtube.com/watch?v=-WoUd19iqnQ)
-- [Blackrock and Coinbase Partnership!](https://www.youtube.com/watch?v=wb9qgz312L4)
+- [You would not believe how NFTs gain value!](https://www.youtube.com/watch?v=9luf6MH10lA)
+- [No way thats an NFT!](https://www.youtube.com/watch?v=zk0a05w8M3s)
+- [You Have To See This NFT To Believe It!](https://www.youtube.com/watch?v=FoGirSiAT2U)
+- [Rating a Bored Ape Yacht Club 3D NFT!](https://www.youtube.com/watch?v=bDmXfoy9924)
+- [Different types of NFTs?](https://www.youtube.com/watch?v=oRSlsFFedqk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Bitcoin](https://www.minutecrypto.org/post/what-is-bitcoin)
-- [Crypto.com, Bitcoin Again, and Lastly!](https://www.minutecrypto.org/post/crypto-com-bitcoin-again-and-lastly)
-- [What Is Livepeer &lpar;LPT&rpar;?](https://www.minutecrypto.org/post/what-is-livepeer-lpt)
-- [Introduction To The Crypto Space!](https://www.minutecrypto.org/post/introduction-to-the-crypto-space)
-- [What Is Band?](https://www.minutecrypto.org/post/what-is-band)
+- [Top Free NFT Mints In November 2022](https://www.minutecrypto.org/post/top-free-nft-mints-in-november-2022)
+- [Instagram Getting Into The NFT Space!](https://www.minutecrypto.org/post/instagram-getting-into-the-nft-space)
+- [Art Gobblers: Why They Are Generating So Much Hype!](https://www.minutecrypto.org/post/art-gobblers-why-they-are-generating-so-much-hype)
+- [PAC-12 Becomes First College Sport To Create NFTs](https://www.minutecrypto.org/post/pac-12-becomes-first-college-sport-to-create-nfts)
+- [Top Free NFT Mints in October 2022](https://www.minutecrypto.org/post/top-free-nft-mints-in-october-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://minutecrypto.org/) 
