@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You will never guess what happened with Game of Thrones NFTs!](https://www.youtube.com/watch?v=ghsXQVIvKR0)
 - [Year In Review NFTs](https://www.youtube.com/watch?v=0yM5c2I7b5c)
 - [You would not believe how NFTs gain value!](https://www.youtube.com/watch?v=9luf6MH10lA)
 - [No way thats an NFT!](https://www.youtube.com/watch?v=zk0a05w8M3s)
 - [You Have To See This NFT To Believe It!](https://www.youtube.com/watch?v=FoGirSiAT2U)
-- [Rating a Bored Ape Yacht Club 3D NFT!](https://www.youtube.com/watch?v=bDmXfoy9924)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
