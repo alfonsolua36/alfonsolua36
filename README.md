@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Over 100 Millions NFTs sales in 2022!](https://www.youtube.com/watch?v=i6QX77GdGXQ)
 - [Yuga Labs Sewer Passes](https://www.youtube.com/watch?v=nE1XnrXyd-s)
 - [McDonalds Lunar New Year Celebration!](https://www.youtube.com/watch?v=E8m-4lK58Q0)
 - [You will never guess what happened with Game of Thrones NFTs!](https://www.youtube.com/watch?v=ghsXQVIvKR0)
 - [Year In Review NFTs](https://www.youtube.com/watch?v=0yM5c2I7b5c)
-- [You would not believe how NFTs gain value!](https://www.youtube.com/watch?v=9luf6MH10lA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
