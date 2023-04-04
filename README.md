@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NFT Collector Loses $129k CryptoPunk NFT!](https://www.youtube.com/watch?v=ebKcl4xPhEI)
 - [Sesame Street NFTs](https://www.youtube.com/watch?v=OzyI0XBs_HM)
 - [Dookey Dash Golden Key](https://www.youtube.com/watch?v=5oWbyQZUq34)
 - [Over 100 Millions NFTs sales in 2022!](https://www.youtube.com/watch?v=i6QX77GdGXQ)
 - [Yuga Labs Sewer Passes](https://www.youtube.com/watch?v=nE1XnrXyd-s)
-- [McDonalds Lunar New Year Celebration!](https://www.youtube.com/watch?v=E8m-4lK58Q0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
