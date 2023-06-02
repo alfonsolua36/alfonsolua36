@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pudgy Penguins Amazon](https://www.youtube.com/watch?v=nsh8vfeISWc)
 - [CoinMarketCap&#39;s Version Of Shark Tank &#39;Killer Whales](https://www.youtube.com/watch?v=4fkP9mDTLV0)
 - [Bitcoin Ordinals Reaches 1 Million!](https://www.youtube.com/watch?v=pSHHVCpeVU8)
 - [NFT Collector Loses $129k CryptoPunk NFT!](https://www.youtube.com/watch?v=ebKcl4xPhEI)
 - [Sesame Street NFTs](https://www.youtube.com/watch?v=OzyI0XBs_HM)
-- [Dookey Dash Golden Key](https://www.youtube.com/watch?v=5oWbyQZUq34)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
