@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do This And Twitter Will Never Take Away Your Handle Again](https://www.youtube.com/watch?v=DW_qDEIAwS4)
 - [Recrusive Inscriptions Explained! Bitcoin&#39;s Answer To The Metaverse](https://www.youtube.com/watch?v=c4-sOyNZ3Js)
 - [Bitmaps, The Next Big Thing In Bitcoin!](https://www.youtube.com/watch?v=yDQNPR1iaLs)
 - [Pudgy Penguins Amazon](https://www.youtube.com/watch?v=nsh8vfeISWc)
 - [CoinMarketCap&#39;s Version Of Shark Tank &#39;Killer Whales](https://www.youtube.com/watch?v=4fkP9mDTLV0)
-- [Bitcoin Ordinals Reaches 1 Million!](https://www.youtube.com/watch?v=pSHHVCpeVU8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
