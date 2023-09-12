@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&quot;Unveiling the Metaverse of Bitcoin: Bitmap Valley&#39;s Visionary Journey - Part 3](https://www.youtube.com/watch?v=2VxhKYZDpyI)
 - [Bitmap Valley&#39;s Jaw-Dropping Innovations and What&#39;s Next!](https://www.youtube.com/watch?v=Bfsf9vySn2c)
 - [The Next Big Thing In Bitcoin, Bitmap Valley w/ IMSOnft_Chris](https://www.youtube.com/watch?v=KFZmyYJKQYw)
 - [Rare Satoshis BTC Ordinals](https://www.youtube.com/watch?v=kTgbFFN7LVQ)
 - [Do This And Twitter Will Never Take Away Your Handle Again](https://www.youtube.com/watch?v=DW_qDEIAwS4)
-- [Recrusive Inscriptions Explained! Bitcoin&#39;s Answer To The Metaverse](https://www.youtube.com/watch?v=c4-sOyNZ3Js)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
