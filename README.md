@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Reforms, Philosophy and Ordinals: A Journey with Donny](https://www.youtube.com/watch?v=zCgnVXRc8AA)
 - [Ordinal Talk with Ordinal Gazette: From Satoshis to Stories](https://www.youtube.com/watch?v=MpMRV3du21U)
 - [The Bitcoin Collection That&#39;s Changing the Game w/ Founder SamSageWize](https://www.youtube.com/watch?v=uBl4sdW2SpQ)
 - [&quot;Unveiling the Metaverse of Bitcoin: Bitmap Valley&#39;s Visionary Journey - Part 3](https://www.youtube.com/watch?v=2VxhKYZDpyI)
 - [Bitmap Valley&#39;s Jaw-Dropping Innovations and What&#39;s Next!](https://www.youtube.com/watch?v=Bfsf9vySn2c)
-- [The Next Big Thing In Bitcoin, Bitmap Valley w/ IMSOnft_Chris](https://www.youtube.com/watch?v=KFZmyYJKQYw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
