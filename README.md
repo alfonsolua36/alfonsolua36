@@ -65,11 +65,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bitcoin, $ORDI, and More Around the Ordinal Space](https://www.youtube.com/watch?v=Y5Oi2ScRDxs)
 - [GeniiData: Discover Data On Bitcoin](https://www.youtube.com/watch?v=vKEGSI4jM1c)
 - [Reforms, Philosophy and Ordinals: A Journey with Donny](https://www.youtube.com/watch?v=zCgnVXRc8AA)
 - [Ordinal Talk with Ordinal Gazette: From Satoshis to Stories](https://www.youtube.com/watch?v=MpMRV3du21U)
 - [The Bitcoin Collection That&#39;s Changing the Game w/ Founder SamSageWize](https://www.youtube.com/watch?v=uBl4sdW2SpQ)
-- [&quot;Unveiling the Metaverse of Bitcoin: Bitmap Valley&#39;s Visionary Journey - Part 3](https://www.youtube.com/watch?v=2VxhKYZDpyI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA/videos?sub_confirmation=1)
