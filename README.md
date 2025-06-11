@@ -65,8 +65,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bitmap Valley, Bitmap&#39;s Metaverse Creation](https://www.youtube.com/watch?v=pzfcXtSIkss)
-- [Bitcoin, $ORDI, and More Around the Ordinal Space](https://www.youtube.com/watch?v=Y5Oi2ScRDxs)
+- [Bitmap Valley, Bitmap&#39;s Metaverse Creation](https://www.youtube.com/shorts/pzfcXtSIkss)
+- [Bitcoin, $ORDI, and More Around the Ordinal Space](https://www.youtube.com/shorts/Y5Oi2ScRDxs)
 - [GeniiData: Discover Data On Bitcoin](https://www.youtube.com/watch?v=vKEGSI4jM1c)
 - [Reforms, Philosophy and Ordinals: A Journey with Donny](https://www.youtube.com/watch?v=zCgnVXRc8AA)
 - [Ordinal Talk with Ordinal Gazette: From Satoshis to Stories](https://www.youtube.com/watch?v=MpMRV3du21U)
